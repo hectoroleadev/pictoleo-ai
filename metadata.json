@@ -1,0 +1,5 @@
+{
+  "name": "PictoLeo AI",
+  "description": "Generador de pictogramas con IA para Leonel, con soporte de audio y almacenamiento.",
+  "requestFramePermissions": []
+}
